@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tehc-Salva
+- 👋 Hi, I’m Salwa
 - 👀 I’m interested in 3D graphics and video games
 - 🌱 I’m currently learning programming in C and C++
 - 💞️ I’m looking to collaborate on future projects
