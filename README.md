@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salwa
+- 👋 Hi, I’m Oskar
 - 👀 I’m interested in 3D graphics and video games
 - 🌱 I’m currently learning programming in C and C++
 - 💞️ I’m looking to collaborate on future projects
